@@ -129,4 +129,3 @@ def main():
     search_script(targets, name_map)
 if __name__ == "__main__":
     main()
-    print("скрипт от ебаната алогена @ologen , @fimozroot")
