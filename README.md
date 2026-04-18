@@ -12,6 +12,14 @@
 
 ---
 
+## 📸 Screenshots / Скриншоты
+<p align="center">
+  <img src="screenshots/photo_2026-04-18_17-45-26.jpg" width="45%">
+  <img src="screenshots/photo_2026-04-18_17-46-11.jpg" width="45%">
+</p>
+
+---
+
 ## <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fa-1f1f8.png" width="24"> English
 
 ### 📱 About the Project
@@ -64,5 +72,6 @@ The resulting `.tipa` or `.deb` will be in the `./packages` directory.
 
 ---
 <p align="center">
-  <i>Developed with ❤️ for the community.</i>
+  <i>Developed with ❤️ for the community.</i><br>
+  <b><a href="https://t.me/project_fent">t.me/project_fent</a></b>
 </p>
