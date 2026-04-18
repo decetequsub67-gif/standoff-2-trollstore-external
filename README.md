@@ -11,7 +11,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" width="20"> English
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fa-1f1f8.png" width="24"> English
 
 ### 📱 About the Project
 **EzTap** is a high-performance external utility designed for Standoff 2 on iOS devices. It leverages the **TrollStore** environment to provide an external HUD (Head-Up Display) with advanced features. Unlike internal cheats, EzTap runs independently, making it more stable and harder to detect by simple integrity checks.
@@ -31,7 +31,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ru.png" width="20"> Русский
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="24"> Русский
 
 ### 📱 О проекте
 **EzTap** — это высокопроизводительная внешняя утилита, разработанная для Standoff 2 на iOS. Она использует среду **TrollStore** для предоставления внешнего HUD (интерфейса поверх игры) с продвинутыми функциями. В отличие от внутренних читов, EzTap работает независимо, что делает его более стабильным и сложным для обнаружения простыми проверками целостности.
