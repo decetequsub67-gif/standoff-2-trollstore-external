@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Platform-iOS-blue?style=for-the-badge&logo=apple" alt="iOS">
   <img src="https://img.shields.io/badge/Build-Theos-orange?style=for-the-badge" alt="Theos">
   <img src="https://img.shields.io/badge/Support-TrollStore-green?style=for-the-badge" alt="TrollStore">
+  <img src="https://img.shields.io/badge/Game_Version-0.37.0-blue?style=for-the-badge" alt="Version">
 </p>
 
 ---
@@ -14,7 +15,7 @@
 ## <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fa-1f1f8.png" width="24"> English
 
 ### 📱 About the Project
-**EzTap** is a high-performance external utility designed for Standoff 2 on iOS devices. It leverages the **TrollStore** environment to provide an external HUD (Head-Up Display) with advanced features. Unlike internal cheats, EzTap runs independently, making it more stable and harder to detect by simple integrity checks.
+**EzTap** is a high-performance external utility designed for Standoff 2 (**v0.37.0**) on iOS devices. It leverages the **TrollStore** environment to provide an external HUD (Head-Up Display) with advanced features. Unlike internal cheats, EzTap runs independently, making it more stable and harder to detect by simple integrity checks.
 
 ### 🚀 Key Features
 *   **Overlay HUD:** A smooth, high-FPS overlay that displays information on top of the game.
@@ -34,7 +35,7 @@
 ## <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f7-1f1fa.png" width="24"> Русский
 
 ### 📱 О проекте
-**EzTap** — это высокопроизводительная внешняя утилита, разработанная для Standoff 2 на iOS. Она использует среду **TrollStore** для предоставления внешнего HUD (интерфейса поверх игры) с продвинутыми функциями. В отличие от внутренних читов, EzTap работает независимо, что делает его более стабильным и сложным для обнаружения простыми проверками целостности.
+**EzTap** — это высокопроизводительная внешняя утилита, разработанная для Standoff 2 (версия **0.37.0**) на iOS. Она использует среду **TrollStore** для предоставления внешнего HUD (интерфейса поверх игры) с продвинутыми функциями. В отличие от внутренних читов, EzTap работает независимо, что делает его более стабильным и сложным для обнаружения простыми проверками целостности.
 
 ### 🚀 Основные возможности
 *   **Overlay HUD:** Плавное наложение с высоким FPS для отображения информации поверх игры.
